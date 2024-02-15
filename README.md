@@ -1,6 +1,6 @@
 <h1 align="center">🔒 CREDIT CARD FRAUD DETECTION 🔒</h1>
-<p align="center">Advanced Analytics for Financial Security 📈💳<br><br>
-.: 🕵️‍♂️ Deep Learning and Anomaly Detection for Secure Transactions :.
+<p align="center">Advanced Analytics for Financial Security using Python 📈💳<br><br>
+.: 📄 Dataset taken from <b><a href="https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud"> Kaggle </a></b> :.
 </p><br>
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=🕵️‍♂️&message=Fraud%20Detection&style=flat&color=blue" alt="Fraud Detection Badge"/>
