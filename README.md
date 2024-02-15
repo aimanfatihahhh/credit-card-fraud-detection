@@ -13,10 +13,8 @@
   - [Objective](#-objective)
   - [Dataset Overview](#-dataset-overview)
   - [Data Preparation](#-data-preparation)
-  - [Feature Engineering](#-feature-engineering)
   - [Model Building](#-model-building)
   - [Model Evaluation](#-model-evaluation)
-  - [Anomaly Detection Techniques](#-anomaly-detection-techniques)
   - [Results and Insights](#-results-and-insights)
   - [Strategic Recommendations](#-strategic-recommendations)
 
@@ -34,23 +32,15 @@
 
 ## ⚙ Data Preparation:
 [Data Preparation](#-data-preparation)
-*   Careful preprocessing and cleaning of data to ensure quality inputs for model building and analysis.
-
-## 📊 Feature Engineering:
-[Feature Engineering](#-feature-engineering)
-*   Innovative feature extraction and selection techniques to improve model performance and detection capability.
+*   Careful preprocessing and cleaning of data to ensure quality inputs for model building and analysis. In this project, we include row deletion due to a small amount of missing data.
 
 ## 🏗 Model Building:
 [Model Building](#-model-building)
-*   Implementation of advanced machine learning algorithms, including deep learning models for accurate fraud prediction.
+*   Implementation of advanced machine learning algorithms, including deep learning models for accurate fraud prediction. We implemented Logistic Regression which is designed for binary classification problems. In this project, our data includes binary classification of weather the data is classified as Normal Transactions or Fraudulent Transactions.
 
 ## 📉 Model Evaluation:
 [Model Evaluation](#-model-evaluation)
-*   Comprehensive evaluation using precision, recall, F1-score, and ROC-AUC to assess model effectiveness.
-
-## 🕵️‍♂️ Anomaly Detection Techniques:
-[Anomaly Detection Techniques](#-anomaly-detection-techniques)
-*   Application of cutting-edge anomaly detection methods to identify unusual patterns indicative of fraud.
+*   Comprehensive evaluation using accuracy score. This method calculates the proportion of correct predictions made by the model out of all predictions made. The accuracy score is a common evaluation metric for classification problems and is particularly straightforward and intuitive.
 
 ## 📈 Results and Insights:
 *   [Detection Accuracy](#-detection-accuracy): High precision and recall rates achieved in identifying fraudulent transactions.
