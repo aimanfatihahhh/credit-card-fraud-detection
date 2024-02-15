@@ -33,23 +33,23 @@
 <br><br>
 
 ## ⚙ Data Preparation:
-<img src="https://github.com/username/credit-card-fraud-detection/blob/main/Screenshots/Data%20Preparation.png" width="400" alt="Data Preparation"/>
+[Data Preparation](#-data-preparation)
 *   Careful preprocessing and cleaning of data to ensure quality inputs for model building and analysis.
 
 ## 📊 Feature Engineering:
-<img src="https://github.com/username/credit-card-fraud-detection/blob/main/Screenshots/Feature%20Engineering.png" width="400" alt="Feature Engineering"/>
+[Feature Engineering](#-feature-engineering)
 *   Innovative feature extraction and selection techniques to improve model performance and detection capability.
 
 ## 🏗 Model Building:
-<img src="https://github.com/username/credit-card-fraud-detection/blob/main/Screenshots/Model%20Building.png" width="400" alt="Model Building"/>
+[Model Building](#-model-building)
 *   Implementation of advanced machine learning algorithms, including deep learning models for accurate fraud prediction.
 
 ## 📉 Model Evaluation:
-<img src="https://github.com/username/credit-card-fraud-detection/blob/main/Screenshots/Model%20Evaluation.png" width="400" alt="Model Evaluation"/>
+[Model Evaluation](#-model-evaluation)
 *   Comprehensive evaluation using precision, recall, F1-score, and ROC-AUC to assess model effectiveness.
 
 ## 🕵️‍♂️ Anomaly Detection Techniques:
-<img src="https://github.com/username/credit-card-fraud-detection/blob/main/Screenshots/Anomaly%20Detection.png" width="400" alt="Anomaly Detection"/>
+[Anomaly Detection Techniques](#-anomaly-detection-techniques)
 *   Application of cutting-edge anomaly detection methods to identify unusual patterns indicative of fraud.
 
 ## 📈 Results and Insights:
@@ -65,4 +65,4 @@
 
 ---
 
-👉 _For more insights and detailed analysis, please consider following my [GitHub](https://www.github.com/username) and [LinkedIn](linkedin.com/in/username) profiles._
+👉 _For more insights and detailed analysis, please consider following my [GitHub](https://www.github.com/aimanfatihahhh) and [LinkedIn](linkedin.com/in/aimanfatihahh) profiles._
